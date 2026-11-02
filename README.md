@@ -1,3 +1,5 @@
+> **Archived.** This project now lives in the XCore monorepo, in [`services/metrics-gateway`](https://github.com/XCore-mindustry/xcore/tree/main/services/metrics-gateway). Production now runs from the monorepo. Report issues and send pull requests to the monorepo.
+
 # xcore-metrics-gateway
 
 Standalone Prometheus-facing telemetry gateway for XCore Mindustry servers.
